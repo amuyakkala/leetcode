@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @amuyakkala
-- 👀 I’m interested in coding and data, AI 
-- 🌱 I’m currently doing masters in computer science 
-- 💞️ I’m looking to collaborate on projects that elevates my skills in tech industry
-- 📫 How to reach me www.linkedin.com/in/amulyayakkala, amulyayakkala123@gmail.com
 
 
 
